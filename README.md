@@ -23,7 +23,7 @@
 
 # Card - Stats
 
-![JoaquimSimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimSimo&show_icons=true&theme=radical)
+![Joaquim GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimSimo&show_icons=true&theme=tokyonight)
 
 # Contacts:
 
