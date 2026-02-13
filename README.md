@@ -3,7 +3,7 @@
 ## I started my journey in the world of programming recently, I'm studying ADS (Systems Analysis and Development) at college and I'm always looking to update myself through online courses.
 
 # 📚 Knowledge
-![Python](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -23,7 +23,7 @@
 
 # Card - Stats
 
-![(https://github-readme-stats.vercel.app/api?username=JoaquimSimo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://camo.githubusercontent.com/ff8874e62d5501e817ca83ec265fd3f80506e61cdb325a6162347099e00b66d7/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d766e376e3234667a6b71267468656d653d32303737)
+[![JoaquimSimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contacts:
 
