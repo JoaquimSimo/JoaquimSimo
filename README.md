@@ -21,10 +21,6 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# Card - Stats
-
-![Joaquim GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquim_sim&show_icons=true&theme=tokyonight)
-
 # Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqWWOXtGvTsi40D1p6S6RDQ%3D%3D)
