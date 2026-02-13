@@ -23,7 +23,7 @@
 
 # Card - Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaquimSimo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![(https://github-readme-stats.vercel.app/api?username=JoaquimSimo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://camo.githubusercontent.com/ff8874e62d5501e817ca83ec265fd3f80506e61cdb325a6162347099e00b66d7/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d766e376e3234667a6b71267468656d653d32303737)
 
 # Contacts:
 
